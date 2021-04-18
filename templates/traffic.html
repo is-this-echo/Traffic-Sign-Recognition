@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SignClassifier</title>
+
+    <link
+      rel="stylesheet"
+      href="{{url_for('static',
+    filename='css/style.css')}}"
+    />
+  </head>
+  <body>
+    <div class="contain">
+      <img src="{{selected_img}}" alt="Selected Image" />
+      <form
+        action="{{url_for('upload_file')}}"
+        method="POST"
+        enctype="multipart/form-data"
+      >
+        <input type="file" name="file" />
+        <input type="submit" />
+      </form>
+      <p><span class="head">Predicted sign </span>: <u>{{sign_pred}}</u></p>
+    </div>
+  </body>
+</html>
