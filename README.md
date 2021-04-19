@@ -13,7 +13,7 @@ Web-API:
 [Link to dataset](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 
-*How to use* : 
+### *How to use* : 
 - Download the dataset from Kaggle using the link given above.
 - Unzip the contents, you will get 3 folders and 3 csv files.
 - Create similar folder/file structure as in the github repository.
