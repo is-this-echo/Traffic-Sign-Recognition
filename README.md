@@ -1,6 +1,9 @@
 ##  🚙 Traffic-Signal-Recognition ⛔
 
-Traffic Signal Recognition recognizes and classifies road signal images into any one of 43 different classes that are used worldwide
+
+https://img.shields.io/github/issues/Devil-Echo/Traffic-Signal-Recognition?style=plastic
+
+[![GitHub issues](https://img.shields.io/github/issues/Devil-Echo/Traffic-Signal-Recognition?style=plastic)] [![GitHub stars](https://img.shields.io/github/stars/Devil-Echo/Traffic-Signal-Recognition)](https://github.com/Devil-Echo/Traffic-Signal-Recognition/stargazers)
 
 ---------
 
