@@ -2,8 +2,7 @@
 
 
 
-[![GitHub issues](https://img.shields.io/github/issues/Devil-Echo/Traffic-Signal-Recognition?style=plastic)]  
-[![GitHub stars](https://img.shields.io/github/stars/Devil-Echo/Traffic-Signal-Recognition)](https://github.com/Devil-Echo/Traffic-Signal-Recognition/stargazers)
+![GitHub issues](https://img.shields.io/github/issues/Devil-Echo/Traffic-Signal-Recognition?style=plastic)  [![GitHub stars](https://img.shields.io/github/stars/Devil-Echo/Traffic-Signal-Recognition)](https://github.com/Devil-Echo/Traffic-Signal-Recognition/stargazers)
 
 ---------
 
